@@ -1,0 +1,36 @@
+﻿<Window x:Class="Prak2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prak2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="230*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DatePicker x:Name="calendar" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+        <TextBlock Grid.ColumnSpan="2" Grid.Column="1" Text="Название:" TextAlignment="Center" FontFamily="Times New Roman" FontSize="20 " Margin="0,3,0,5"/>
+        <TextBox x:Name="title_note" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="1" Margin="15,0,27,16" Grid.RowSpan="2"/>
+        <TextBlock Grid.Row="5" Grid.ColumnSpan="3" Text="Описание:" TextAlignment="Center" FontFamily="Times New Roman" FontSize="15" Margin="390,10,10,278"/>
+        <TextBox x:Name="description_note" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="1" Margin="15,53,27,67" Grid.RowSpan="2" TextWrapping="Wrap"/>
+        <Button x:Name="delete_note" Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="1"  Background="Red" Content="Удалить запись" Margin="0,5,10,20" Click="delete_note_Click" />
+        <Button x:Name="create_note" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="1" Content="Создание" Background="Chocolate" Margin="15,270,10,25" Click="create_note_Click"/>
+        <Button x:Name="save_note" Grid.Column="2" Grid.Row="5" Grid.ColumnSpan="1" Background ="Green" Content="Сохранить" Margin="0,270,27,25" Click="save_note_Click"/>
+        <ListBox x:Name="note" Grid.Column="0" Grid.Row="1" Grid.RowSpan="5" SelectionChanged="note_SelectionChanged" DisplayMemberPath="Title"/>
+        <Label Grid.Column="1" Content="Ежедневник" HorizontalAlignment="Left" Margin="172,0,0,0" Grid.Row="6" VerticalAlignment="Top" Height="36" Width="113" FontFamily="Bahnschrift Light Condensed" FontSize="20" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

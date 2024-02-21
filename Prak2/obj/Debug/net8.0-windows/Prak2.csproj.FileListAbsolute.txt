@@ -1,0 +1,46 @@
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Prak2.exe
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Prak2.deps.json
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Prak2.runtimeconfig.json
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Prak2.dll
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Prak2.pdb
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2_MarkupCompile.cache
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2_MarkupCompile.lref
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.g.resources
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.AssemblyInfo.cs
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.dll
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\refint\Prak2.dll
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.pdb
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.genruntimeconfig.cache
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\ref\Prak2.dll
+C:\Users\anton\source\repos\Prak2\Prak2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Prak2\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.CopyComplete
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Prak2.exe
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Prak2.deps.json
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Prak2.runtimeconfig.json
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Prak2.dll
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Prak2.pdb
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2_MarkupCompile.cache
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2_MarkupCompile.lref
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.g.resources
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.AssemblyInfo.cs
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.csproj.CopyComplete
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.dll
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\refint\Prak2.dll
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.pdb
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\Prak2.genruntimeconfig.cache
+C:\Users\anton\Desktop\Практическая рабооа\Prak2\obj\Debug\net8.0-windows\ref\Prak2.dll
